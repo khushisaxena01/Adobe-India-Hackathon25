@@ -3,20 +3,6 @@
 ## Overview
 This solution extracts structured document outlines from PDF files, identifying titles and hierarchical headings to generate JSON outputs. Built for the Adobe India Hackathon 2025 Challenge 1A, it processes PDFs within Docker containers while meeting strict performance and resource constraints.
 
-## Official Challenge Guidelines
-
-### Submission Requirements
-- **GitHub Project**: Complete code repository with working solution
-- **Dockerfile**: Must be present in the root directory and functional
-- **README.md**:  Documentation explaining the solution, models, and libraries used
-
-### Critical Constraints
-- **Execution Time**: ≤ 10 seconds for a 50-page PDF
-- **Model Size**: ≤ 200MB (if using ML models)
-- **Network**: No internet access allowed during runtime execution
-- **Runtime**: Must run on CPU (amd64) with 8 CPUs and 16 GB RAM
-- **Architecture**: Must work on AMD64, not ARM-specific
-
 ### Key Requirements
 - **Automatic Processing**: Process all PDFs from `/app/input` directory
 - **Output Format**: Generate `filename.json` for each `filename.pdf`
@@ -190,6 +176,50 @@ json{
   }
 }
 
+### Performance Features
+
+- Adaptive Threading: Automatically adjusts thread count based on available CPU cores
+- Memory Management: Processes PDFs individually to prevent memory overflow
+- Progress Monitoring: Real-time logging of processing status and timing
+- Error Recovery: Continues batch processing even if individual files fail
+
+## Development and Testing
+
+### Local Development
+The solution supports local development outside Docker:
+bashpython main.py  # Runs in local environment (OR bashpython main3.py)
+
+### Testing Strategy
+
+- Simple PDFs: Basic documents with clear structure
+- Complex Layouts: Multi-column, academic papers, reports
+- Large Documents: 50+ page PDFs for performance testing
+- Edge Cases: Malformed PDFs, unusual fonts, mixed languages
+
+### Debugging
+
+Enable detailed logging by modifying the logging level in main.py:
+pythonlogging.basicConfig(level=logging.DEBUG)  # More verbose output
+
+## Troubleshooting
+
+### Common Issues
+
+- No PDFs Found: Ensure PDFs are in the input/ directory
+- Permission Errors: Check file permissions on input/output directories
+- Docker Build Fails: Verify Docker is running and has sufficient resources
+- Processing Timeout: Large PDFs may need additional processing time
+
+### Support
+
+- Check logs for detailed error messages
+- Verify input PDF file integrity
+- Ensure sufficient disk space for output files
+- Validate Docker container has proper volume mounts
+
+## License
+Open source solution using freely available libraries and tools as required by Adobe Hackathon guidelines.
+
 ### Validation Checklist
 - [✅] All PDFs in input directory are processed
 - [✅] JSON output files are generated for each PDF
@@ -199,5 +229,7 @@ json{
 - [✅] Solution works without internet access
 - [✅] Memory usage stays within 16GB limit
 - [✅] Compatible with AMD64 architecture
+
+Adobe India Hackathon 2025 - Challenge 1A Submission
 
 ---
