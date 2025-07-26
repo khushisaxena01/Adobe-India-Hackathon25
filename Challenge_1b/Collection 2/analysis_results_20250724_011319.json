@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "input_documents": [
+      "6874faecd848a_Adobe_India_Hackathon_-_Challenge_Doc.pdf",
+      "ALocation-SpecificMobileFramework_PublishedBook.pdf"
+    ],
+    "persona": "student",
+    "job_to_be_done": "summarize main findings",
+    "processing_timestamp": "2025-07-24T01:13:19.060486",
+    "total_sections_found": 5169,
+    "top_sections_selected": 10
+  },
+  "extracted_sections": [
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 248,
+      "section_title": "The security of computing resource sharing was addressed in [ 25] by the use",
+      "importance_rank": 1,
+      "relevance_score": 1.253
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 248,
+      "section_title": "Beginning",
+      "importance_rank": 2,
+      "relevance_score": 1.237
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 582,
+      "section_title": "The analysis investigates factors in the academic performance of students included",
+      "importance_rank": 3,
+      "relevance_score": 0.819
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 590,
+      "section_title": "conference on learning analytics and knowledge pp 170–179",
+      "importance_rank": 4,
+      "relevance_score": 0.819
+    },
+    {
+      "document": "6874faecd848a_Adobe_India_Hackathon_-_Challenge_Doc.pdf",
+      "page_number": 7,
+      "section_title": "solution that teams need to build needs to be generic to generalize to this",
+      "importance_rank": 5,
+      "relevance_score": 0.817
+    },
+    {
+      "document": "6874faecd848a_Adobe_India_Hackathon_-_Challenge_Doc.pdf",
+      "page_number": 7,
+      "section_title": "solution that teams need to build needs to be generic to generalize to this",
+      "importance_rank": 6,
+      "relevance_score": 0.814
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 578,
+      "section_title": "begun to grow, the impact of blended learning that integrates MOOCs on the academic",
+      "importance_rank": 7,
+      "relevance_score": 0.814
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 248,
+      "section_title": "2. The ﬁrst table provides a summary of the reviewed works based on the main",
+      "importance_rank": 8,
+      "relevance_score": 0.812
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 576,
+      "section_title": "and Alin Zamﬁroiu",
+      "importance_rank": 9,
+      "relevance_score": 0.812
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 590,
+      "section_title": "Beginning",
+      "importance_rank": 10,
+      "relevance_score": 0.811
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "The security of computing resource sharing was addressed in [ 25] by the use",
+      "refined_text": "This mechanism incentives participation for sharing resources by \ngranting ﬁxed credits via the Blockchain system. \n4 Main Findings and Perspectives \nThis section summarizes this review and gives some perspectives. The proposed solution is based on a reward mechanism secured by the Blockchain. The security of computing resource sharing was addressed in [ 25] by the use \nof Blockchain.",
+      "page_number": 248,
+      "relevance_score": 1.253
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "Beginning",
+      "refined_text": "An access control list is associated to each cluster. The security analysis of this approach shows its ability to prevent unveriﬁed nodes from undertaking ofﬂoading. Zouaidi\nBlockchain technology was used in [ 23] to achieve the security of cooperative \ncomputing strategy. To enhance the security level, the fog environment is divided \ninto clusters. The simulation results show that the coop-\nerative strategy reduces the computing time of a block hash in comparison to the non-cooperative one.",
+      "page_number": 248,
+      "relevance_score": 1.237
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "The analysis investigates factors in the academic performance of students included",
+      "refined_text": "The analysis investigates factors in the academic performance of students included \nin a blended MOOC learning environment were analyzed in this study. Five main research questions were addressed; these relate to different aspects of student perfor-\nmance, such as the inﬂuence of age, gender, course selection, computer skills, and workload.",
+      "page_number": 582,
+      "relevance_score": 0.819
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "conference on learning analytics and knowledge pp 170–179",
+      "refined_text": "Yang D, Sinha T, Adamson D, Rosé CP (2013) Turn on, tune in, drop out: anticipating student dropouts in massive open online courses. Educ Psychol 57(3):178–191 \n21. Bozkurt A, Akgün-Özbek E, Zawacki-Richter O (2017) Trends and patterns in massive open online courses: Review and content analysis of research on MOOCs (2008–2015). Ali W (2018) Transforming higher education landscape with hybrid/blended approach as an evolving paradigm. Springer, Singapore \n20.",
+      "page_number": 590,
+      "relevance_score": 0.819
+    },
+    {
+      "document": "6874faecd848a_Adobe_India_Hackathon_-_Challenge_Doc.pdf",
+      "section_title": "solution that teams need to build needs to be generic to generalize to this",
+      "refined_text": "solution that teams need to build needs to be generic to generalize to this \nvariety.    \n• Documents can be from any domain (Example: Research papers, \nschool/college books, financial reports, news articles etc.)   \n• Persona can again be very diverse (Example: Researcher, Student,",
+      "page_number": 7,
+      "relevance_score": 0.817
+    },
+    {
+      "document": "6874faecd848a_Adobe_India_Hackathon_-_Challenge_Doc.pdf",
+      "section_title": "solution that teams need to build needs to be generic to generalize to this",
+      "refined_text": "solution that teams need to build needs to be generic to generalize to this \nvariety.    \n• Documents can be from any domain (Example: Research papers, \nschool/college books, financial reports, news articles etc.)   \n• Persona can again be very diverse (Example: Researcher, Student, \nSalesperson, Journalist, Entrepreneur etc)   \n• Job-to-be-done: This will be related to the persona (Example:",
+      "page_number": 7,
+      "relevance_score": 0.814
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "begun to grow, the impact of blended learning that integrates MOOCs on the academic",
+      "refined_text": "Although blended learning \nwith MOOCs is promising to promote engagement, ﬂexibility, and access to educa-tional resources, how such a learning modality inﬂuences academic achievement regarding the student’s role is not clearly understood. begun to grow, the impact of blended learning that integrates MOOCs on the academic \nperformance of students remains to be researched [\n3, 5]. It thus requires a critical review of how MOOC-\nbased blended learning affects academic performance.",
+      "page_number": 578,
+      "relevance_score": 0.814
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "2. The ﬁrst table provides a summary of the reviewed works based on the main",
+      "refined_text": "2. The ﬁrst table provides a summary of the reviewed works based on the main \nuse of Blockchain, namely: security of data storage and security of data processing. Meanwhile, the second table outlines the security services addressed in each work, \nincluding authentication, privacy, conﬁdentiality, integrity, trust and access control. In addition, the limitations associated to each addressed security service are summarized in Table",
+      "page_number": 248,
+      "relevance_score": 0.812
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "and Alin Zamﬁroiu",
+      "refined_text": "and Alin Zamﬁroiu \nAbstract Blended learning is the combination of online and classroom instruction. By integrating Massive Open Online Courses (MOOCs), students can watch \nlectures from subject matter experts wherever and whenever. \nIt has changed the face of traditional education by allowing a custom-ﬁt lesson plan. The main focus of every type of education, whether it is online or traditional learning, examines the \nacademic performances of the students.",
+      "page_number": 576,
+      "relevance_score": 0.812
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "Beginning",
+      "refined_text": "Picciano A (2009) Blending with purpose: the multimodal model. Jordan K (2015) Massive open online course completion rates revisited: assessment, length and attrition. Contemp Educ Technol 7(3):223–240 \n12. Comput Educ 107:113–126 \n11. Anders A (2015) Theories and applications of massive online open courses (MOOCs): the case for hybrid design. Anderson T, Dron J (2011) Three generations of distance education pedagogy. Pilli O, Admiraal W (2016) A taxonomy of massive open online courses.",
+      "page_number": 590,
+      "relevance_score": 0.811
+    }
+  ],
+  "processing_time_seconds": 18.21
+}
