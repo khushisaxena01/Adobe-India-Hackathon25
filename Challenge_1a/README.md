@@ -154,7 +154,7 @@ Output Volume: ${PWD}\output:/app/output - Maps local output directory to contai
 File Naming: filename.pdf → filename.json
 
 JSON Structure:
-
+'''
 json{
   "title": "Document Title",
   "outline": [
@@ -175,6 +175,7 @@ json{
     "processing_time": 2.34
   }
 }
+'''
 
 ### Performance Features
 
