@@ -102,12 +102,12 @@ Python Standard Library:
 3. Windows PowerShell (for the provided commands)
 
 ### Step 1: Navigate to Project Directory
-
+```
 powershellcd C:\Users\KIIT\OneDrive\Desktop\Adobe\1A_allfiles
 dir
-
+```
 ### Step 2: Build Docker Image
-
+```
 powershell @"
 FROM python:3.9-slim
 WORKDIR /app
@@ -120,9 +120,9 @@ CMD ["python", "main.py"]
 "@ | Out-File -FilePath Dockerfile -Encoding UTF8 -NoNewline
 
 docker build -t pdf-processor .
-
+```
 ### Step 3: Run Processing
-
+```
 powershelldocker run -v "${PWD}\input:/app/input" -v "${PWD}\output:/app/output" pdf-processor
 Docker Configuration
 Dockerfile Breakdown
@@ -134,8 +134,7 @@ RUN pip install --no-cache-dir -r requirements1a.txt  # Install Python packages
 COPY main.py .                           # Copy main processing script
 RUN mkdir -p /app/input /app/output      # Create required directories
 CMD ["python", "main.py"]                # Set container entry point
-
-
+```
 ## Volume Mapping
 
 Input Volume: ${PWD}\input:/app/input - Maps local input directory to container
