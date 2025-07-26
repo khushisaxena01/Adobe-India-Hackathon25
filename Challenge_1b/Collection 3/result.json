@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "input_documents": [
+      "6874faecd848a_Adobe_India_Hackathon_-_Challenge_Doc.pdf",
+      "ALocation-SpecificMobileFramework_PublishedBook.pdf"
+    ],
+    "persona": "Researcher",
+    "job_to_be_done": "Analyze documents",
+    "processing_timestamp": "2025-07-25T06:16:45.980157",
+    "total_sections_analyzed": 749,
+    "system_info": {
+      "python_version": "3.9.23 (main, Jul 22 2025, 01:40:31) \n[GCC 12.2.0]",
+      "platform": "linux"
+    }
+  },
+  "extracted_sections": [
+    {
+      "document": "6874faecd848a_Adobe_India_Hackathon_-_Challenge_Doc.pdf",
+      "page_number": 7,
+      "section_title": "Section 1",
+      "importance_rank": 1
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 256,
+      "section_title": "Section 1",
+      "importance_rank": 2
+    },
+    {
+      "document": "6874faecd848a_Adobe_India_Hackathon_-_Challenge_Doc.pdf",
+      "page_number": 8,
+      "section_title": "Section 1",
+      "importance_rank": 3
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 192,
+      "section_title": "Section 1",
+      "importance_rank": 4
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 479,
+      "section_title": "Section 1",
+      "importance_rank": 5
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 697,
+      "section_title": "Section 1",
+      "importance_rank": 6
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 204,
+      "section_title": "Section 1",
+      "importance_rank": 7
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 566,
+      "section_title": "Section 1",
+      "importance_rank": 8
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 478,
+      "section_title": "Section 1",
+      "importance_rank": 9
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "page_number": 138,
+      "section_title": "Section 1",
+      "importance_rank": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "6874faecd848a_Adobe_India_Hackathon_-_Challenge_Doc.pdf",
+      "section_title": "Section 1",
+      "refined_text": "Document Collection : 3-10 related PDFs Persona Definition : Role description with specific expertise and focus areas 3. Round 1B: Persona -Driven Document Intelligence Theme: “Connect What Matters — For the User Who Matters” Challenge Brief (For Participants) You will build a system that acts as an intelligent document analyst, extracting and prioritizing the most relevant sections from a collection of documents based on a specific persona and their job -to-be-done.",
+      "page_number": 7
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "Section 1",
+      "refined_text": "Secure Data Communication: Implementation and Performance … 233 2 Literature Survey The concept of key-aggregate encryption (KASE) has emerged as a signiﬁcant advancement in the realm of secure and efﬁcient group data sharing through cloud storage. Researchers have examined Addition-ally, studies have explored potential enhancements to KASE schemes, seeking novel approaches to streamline key regeneration processes and minimize computational overhead.",
+      "page_number": 256
+    },
+    {
+      "document": "6874faecd848a_Adobe_India_Hackathon_-_Challenge_Doc.pdf",
+      "section_title": "Section 1",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "Section 1",
+      "refined_text": "Sentiment Analysis and Assessment of Public Opinions Regarding … 167 will rather focus on the robustness and the reliability of the insights, even if some sort of necessary elimination in the accuracy has to be made to obtain results that are valuable for the purpose of decision-making. Sentiment analysis was performed on Twitter data regarding the closure in India during the COVID-19 pandemic by Gupta et al.",
+      "page_number": 192
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "Section 1",
+      "refined_text": "Optimization Algorithm of Blockchain Smart Contracts for Digital … 459 computational cost and time complexity of the system. Zhang Y and other researchers proposed a construction site information management system framework based on blockchain and smart contracts. Based on the limitations of existing methods, this article adopts dynamic scheduling algorithms to optimize the engine performance of contract execution.",
+      "page_number": 479
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "Section 1",
+      "refined_text": "Cybercrime Classiﬁcation and Tracking Computations System Using Machine Learning 685 .TF ij=xi Total words ind j(2) where .niis the number of times the word .wiin a document . The models’ abilities and generalization against different cybercriminal activities are determined through testing the models on various realistic problems.",
+      "page_number": 697
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "Section 1",
+      "refined_text": "Artiﬁcial Intelligence Driven Kyphosis Classiﬁcation 179 validation. This research recorded that importance of distinct deformity patterns identiﬁcations and predict ASD patients surgical outcomes [ 6]. [ 5], considered Cervical kyphosis, Cobb angle, Cervical scoliosis, sagittal vertical axis, Cervical sagittal imbalance patience for analysis. Decision Tree was used to experiment and conditional variable table were constructed based on 2000 conditional inferences.",
+      "page_number": 204
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "Section 1",
+      "refined_text": "This classiﬁcation system covers different types of correctors and their indications being diagnosed only after their condition becomes severe. Deep learning algo- rithms can automatically extract valuable features for diagnosis by learning feature information from a large amount of data, improving the accuracy and efﬁciency of diagnosis.",
+      "page_number": 566
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "Section 1",
+      "refined_text": "458 Z. Zang cannot dynamically adjust the execution sequence of contracts, and the centraliza- tion of their execution structure limits their scalability. The dynamic scheduling algorithm focuses on real-time task allocation and resource scheduling, which increases the This article is based on the digital economy and studies the optimization algorithm of smart contracts based on blockchain.",
+      "page_number": 478
+    },
+    {
+      "document": "ALocation-SpecificMobileFramework_PublishedBook.pdf",
+      "section_title": "Section 1",
+      "refined_text": "The study can explore the efﬁcient It combines the bagging method with multiple NMT models with different initialization parameters to improve the overall robustness and accuracy of translation. The research content inno-vatively improves the performance and stability of NMT models, providing more reliable support for cross language communication.",
+      "page_number": 138
+    }
+  ],
+  "processing_time_seconds": 15.69
+}
