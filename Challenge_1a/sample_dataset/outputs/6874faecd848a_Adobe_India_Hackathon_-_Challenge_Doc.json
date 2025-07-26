@@ -1,0 +1,320 @@
+{
+    "title": "",
+    "outline": [
+        {
+            "level": "H2",
+            "text": "Rethink Reading. Rediscover Knowledge",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Connecting the Dots Challenge",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "The Journey Ahead",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Round 1:",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Round 2:",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Why This Matters",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Challenge Theme: Connecting the Dots Through Docs",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Your Mission",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Title",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "H1 H2",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "H3",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Why This Matters",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "What You Need to Build",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "PDF file",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Title",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Headings:",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Docker Requirements",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "CPU architecture:",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Expected Execution",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Constraints",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "No internet access",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Scoring Criteria",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Max",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Criteria",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Points",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Bonus: Multilingual Handling (e.g.,",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Japanese)",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Total",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Submission Checklist",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Dockerfile",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Pro Tips",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "What Not to Do",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "[[Public Dataset Folder]]",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "(For Sample Input and Output Files, please refer to the appendix)",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "Theme:",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "“Connect What Matters — For the User Who Matters”",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Challenge Brief (For Participants)",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Input Specification",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Document Collection",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Persona Definition",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Job-to-be-Done",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Sample Test Cases",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Test Case 1: Academic Research",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Documents",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Persona",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Job",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Test Case 2: Business Analysis",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "Documents",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "Persona",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "Job",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "Test Case 3: Educational Content",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "Documents",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "Persona",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "Job",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "Required Output",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "Constraints",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "≤ 1GB",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "Deliverables",
+            "page": 9
+        },
+        {
+            "level": "H2",
+            "text": "Scoring Criteria",
+            "page": 9
+        },
+        {
+            "level": "H2",
+            "text": "Max",
+            "page": 9
+        },
+        {
+            "level": "H2",
+            "text": "Criteria",
+            "page": 9
+        },
+        {
+            "level": "H2",
+            "text": "Points",
+            "page": 9
+        },
+        {
+            "level": "H2",
+            "text": "Description",
+            "page": 9
+        }
+    ]
+}

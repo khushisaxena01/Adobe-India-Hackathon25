@@ -1,0 +1,725 @@
+{
+    "title": "",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Lecture Notes in Networks and Systems 1292",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Dynamic Weight-Adjusted Ensemble",
+            "page": 30
+        },
+        {
+            "level": "H2",
+            "text": "Loss for Enhanced Medical Image",
+            "page": 30
+        },
+        {
+            "level": "H2",
+            "text": "Segmentation",
+            "page": 30
+        },
+        {
+            "level": "H2",
+            "text": "Stirring up Biomarker Discovery",
+            "page": 42
+        },
+        {
+            "level": "H2",
+            "text": "The FDR-RFE Pipeline",
+            "page": 42
+        },
+        {
+            "level": "H2",
+            "text": "Support Vector Machines and Slime",
+            "page": 49
+        },
+        {
+            "level": "H2",
+            "text": "Mold Optimization Algorithms for SQL",
+            "page": 49
+        },
+        {
+            "level": "H2",
+            "text": "Injection Detection",
+            "page": 49
+        },
+        {
+            "level": "H2",
+            "text": "Sustainable Sensory Based Automated",
+            "page": 65
+        },
+        {
+            "level": "H2",
+            "text": "Water Regulation System in Energy",
+            "page": 65
+        },
+        {
+            "level": "H2",
+            "text": "Constrained Domain",
+            "page": 65
+        },
+        {
+            "level": "H2",
+            "text": "Deep Neural Network with Stochastic",
+            "page": 75
+        },
+        {
+            "level": "H2",
+            "text": "LWTA (DNN-S-LWTA) for Adversarial",
+            "page": 75
+        },
+        {
+            "level": "H2",
+            "text": "Machine Learning",
+            "page": 75
+        },
+        {
+            "level": "H2",
+            "text": "Stock Price Prediction Using Arithmetic",
+            "page": 83
+        },
+        {
+            "level": "H2",
+            "text": "Optimizer-Assisted LSTM Model",
+            "page": 83
+        },
+        {
+            "level": "H2",
+            "text": "Studying the Differences in Functioning",
+            "page": 92
+        },
+        {
+            "level": "H2",
+            "text": "Among Several Effective Image",
+            "page": 92
+        },
+        {
+            "level": "H2",
+            "text": "Steganography Methods",
+            "page": 92
+        },
+        {
+            "level": "H2",
+            "text": "Monitoring and Optimization of Machine",
+            "page": 116
+        },
+        {
+            "level": "H2",
+            "text": "Learning Workloads Using Kubernetes",
+            "page": 116
+        },
+        {
+            "level": "H2",
+            "text": "CO",
+            "page": 125
+        },
+        {
+            "level": "H2",
+            "text": "Emissions of AI Applications:",
+            "page": 125
+        },
+        {
+            "level": "H3",
+            "text": "2",
+            "page": 125
+        },
+        {
+            "level": "H2",
+            "text": "An Investigation on its Measurement",
+            "page": 125
+        },
+        {
+            "level": "H2",
+            "text": "Research on Optimization of Machine",
+            "page": 137
+        },
+        {
+            "level": "H2",
+            "text": "Translation Performance Based on Deep",
+            "page": 137
+        },
+        {
+            "level": "H2",
+            "text": "Learning Algorithm",
+            "page": 137
+        },
+        {
+            "level": "H2",
+            "text": "Using Big Data Analytics and Business",
+            "page": 147
+        },
+        {
+            "level": "H2",
+            "text": "Intelligence for Flight Delay Prediction",
+            "page": 147
+        },
+        {
+            "level": "H2",
+            "text": "A Location-Speciﬁc Mobile Framework",
+            "page": 166
+        },
+        {
+            "level": "H2",
+            "text": "Systems",
+            "page": 166
+        },
+        {
+            "level": "H2",
+            "text": "Toward Efﬁcient Multi-attribute",
+            "page": 174
+        },
+        {
+            "level": "H2",
+            "text": "Prediction: Lessons from Political Bias",
+            "page": 174
+        },
+        {
+            "level": "H2",
+            "text": "Detection",
+            "page": 174
+        },
+        {
+            "level": "H2",
+            "text": "Sentiment Analysis and Assessment",
+            "page": 190
+        },
+        {
+            "level": "H2",
+            "text": "Vaccination via Twitter and Machine",
+            "page": 190
+        },
+        {
+            "level": "H2",
+            "text": "Learning Techniques",
+            "page": 190
+        },
+        {
+            "level": "H2",
+            "text": "Artiﬁcial Intelligence Driven Kyphosis",
+            "page": 202
+        },
+        {
+            "level": "H2",
+            "text": "Classiﬁcation",
+            "page": 202
+        },
+        {
+            "level": "H2",
+            "text": "An Enhanced Lightweight",
+            "page": 215
+        },
+        {
+            "level": "H2",
+            "text": "Authentication Scheme Based on Three",
+            "page": 215
+        },
+        {
+            "level": "H2",
+            "text": "Factors for WSN",
+            "page": 215
+        },
+        {
+            "level": "H2",
+            "text": "EfﬁcientDet with SAM on NC4K Dataset",
+            "page": 229
+        },
+        {
+            "level": "H2",
+            "text": "Blockchain for Cloud/Edge/Fog",
+            "page": 243
+        },
+        {
+            "level": "H2",
+            "text": "Computing: A Review",
+            "page": 243
+        },
+        {
+            "level": "H2",
+            "text": "Secure Data Communication:",
+            "page": 254
+        },
+        {
+            "level": "H2",
+            "text": "Implementation and Performance",
+            "page": 254
+        },
+        {
+            "level": "H2",
+            "text": "Evaluation of Aggregate Key Encryption",
+            "page": 254
+        },
+        {
+            "level": "H2",
+            "text": "Advancing Pneumonia Diagnosis:",
+            "page": 268
+        },
+        {
+            "level": "H2",
+            "text": "Hybrid and Optimal Deep CNN Model",
+            "page": 268
+        },
+        {
+            "level": "H2",
+            "text": "Enhancing Intrusion Detection",
+            "page": 284
+        },
+        {
+            "level": "H2",
+            "text": "Techniques",
+            "page": 284
+        },
+        {
+            "level": "H2",
+            "text": "Strategic Safeguards: Fortifying",
+            "page": 296
+        },
+        {
+            "level": "H2",
+            "text": "Sovereign Tender Security with RNNs",
+            "page": 296
+        },
+        {
+            "level": "H2",
+            "text": "Integrating Machine Learning",
+            "page": 308
+        },
+        {
+            "level": "H2",
+            "text": "Prediction: A Comprehensive Analysis",
+            "page": 308
+        },
+        {
+            "level": "H2",
+            "text": "Impact on Disease Prevalence",
+            "page": 308
+        },
+        {
+            "level": "H2",
+            "text": "Review of Machine Learning and False",
+            "page": 320
+        },
+        {
+            "level": "H2",
+            "text": "Advertising in Live E-commerce:",
+            "page": 320
+        },
+        {
+            "level": "H2",
+            "text": "Features, Motivations, and Identiﬁcation",
+            "page": 320
+        },
+        {
+            "level": "H2",
+            "text": "Studies",
+            "page": 320
+        },
+        {
+            "level": "H2",
+            "text": "Optimization of Digital Special Effects",
+            "page": 330
+        },
+        {
+            "level": "H2",
+            "text": "Innovation Technology for LCS",
+            "page": 330
+        },
+        {
+            "level": "H2",
+            "text": "Algorithm",
+            "page": 330
+        },
+        {
+            "level": "H2",
+            "text": "Human-Centric Video Analysis",
+            "page": 341
+        },
+        {
+            "level": "H2",
+            "text": "Survey and Analysis of Communication",
+            "page": 355
+        },
+        {
+            "level": "H2",
+            "text": "Securing Patient Personal Information",
+            "page": 371
+        },
+        {
+            "level": "H2",
+            "text": "Using Multi-Dimensional",
+            "page": 371
+        },
+        {
+            "level": "H2",
+            "text": "Anonymization-Based Intelligent",
+            "page": 371
+        },
+        {
+            "level": "H2",
+            "text": "Technology Using Edge Nodes",
+            "page": 371
+        },
+        {
+            "level": "H2",
+            "text": "Tuberculosis Disease Detection:",
+            "page": 381
+        },
+        {
+            "level": "H2",
+            "text": "Comparative Analysis of Logistic",
+            "page": 381
+        },
+        {
+            "level": "H2",
+            "text": "Regression and Decision Tree Models",
+            "page": 381
+        },
+        {
+            "level": "H2",
+            "text": "Demographic and Symptom Data",
+            "page": 381
+        },
+        {
+            "level": "H2",
+            "text": "Adam Wild Horse Optimization",
+            "page": 396
+        },
+        {
+            "level": "H2",
+            "text": "Prediction in a Blended Learning Model",
+            "page": 396
+        },
+        {
+            "level": "H2",
+            "text": "A Novel Attention Method to Process",
+            "page": 416
+        },
+        {
+            "level": "H2",
+            "text": "Long Trajectories’ Sequences Efﬁciently",
+            "page": 416
+        },
+        {
+            "level": "H2",
+            "text": "Hepatitis C Prediction Applying",
+            "page": 435
+        },
+        {
+            "level": "H2",
+            "text": "Different ML Classiﬁcation Algorithms",
+            "page": 435
+        },
+        {
+            "level": "H2",
+            "text": "Alzheimer’s Disease Detection Using",
+            "page": 451
+        },
+        {
+            "level": "H2",
+            "text": "Hybrid Radial Basis Function Neural",
+            "page": 451
+        },
+        {
+            "level": "H2",
+            "text": "Network Integrated with Harris Hawk",
+            "page": 451
+        },
+        {
+            "level": "H2",
+            "text": "Optimization",
+            "page": 451
+        },
+        {
+            "level": "H2",
+            "text": "Assessing Wi-Fi Fingerprinting",
+            "page": 469
+        },
+        {
+            "level": "H2",
+            "text": "University Example",
+            "page": 469
+        },
+        {
+            "level": "H2",
+            "text": "Optimization Algorithm of Blockchain",
+            "page": 477
+        },
+        {
+            "level": "H2",
+            "text": "Smart Contracts for Digital Economy",
+            "page": 477
+        },
+        {
+            "level": "H2",
+            "text": "Tomato Disease Detection: Leveraging",
+            "page": 487
+        },
+        {
+            "level": "H2",
+            "text": "YOLOv8.2.0 for Accurate and Efﬁcient",
+            "page": 487
+        },
+        {
+            "level": "H2",
+            "text": "Solutions",
+            "page": 487
+        },
+        {
+            "level": "H2",
+            "text": "Data-Driven Facial Image Synthesis",
+            "page": 500
+        },
+        {
+            "level": "H2",
+            "text": "GANs",
+            "page": 500
+        },
+        {
+            "level": "H2",
+            "text": "Advanced Machine Learning Approach",
+            "page": 514
+        },
+        {
+            "level": "H2",
+            "text": "Malware in Cybersecurity Domain",
+            "page": 514
+        },
+        {
+            "level": "H2",
+            "text": "Enhanced Deepfake Detection Using",
+            "page": 522
+        },
+        {
+            "level": "H2",
+            "text": "Deep Learning on Large-Scale Video",
+            "page": 522
+        },
+        {
+            "level": "H2",
+            "text": "Data: A Fused ResNet50 and LSTM",
+            "page": 522
+        },
+        {
+            "level": "H2",
+            "text": "Approach",
+            "page": 522
+        },
+        {
+            "level": "H2",
+            "text": "Advancements in Digital Pathology:",
+            "page": 535
+        },
+        {
+            "level": "H2",
+            "text": "A Comprehensive Survey of Predictive",
+            "page": 535
+        },
+        {
+            "level": "H2",
+            "text": "Models for Cancer Diagnosis",
+            "page": 535
+        },
+        {
+            "level": "H2",
+            "text": "Detection of Coal Miner",
+            "page": 552
+        },
+        {
+            "level": "H2",
+            "text": "Transfer Learning Techniques",
+            "page": 552
+        },
+        {
+            "level": "H2",
+            "text": "A Method for Generating a Computer",
+            "page": 565
+        },
+        {
+            "level": "H2",
+            "text": "Simulation Model for Detecting Scoliosis",
+            "page": 565
+        },
+        {
+            "level": "H2",
+            "text": "Images",
+            "page": 565
+        },
+        {
+            "level": "H2",
+            "text": "Academic Performance in Blended",
+            "page": 576
+        },
+        {
+            "level": "H2",
+            "text": "Learning Environment Utilizing MOOCs",
+            "page": 576
+        },
+        {
+            "level": "H2",
+            "text": "Efﬁcient Model Used for IoT-Based",
+            "page": 592
+        },
+        {
+            "level": "H2",
+            "text": "Digital Forensics Using Blockchain",
+            "page": 592
+        },
+        {
+            "level": "H2",
+            "text": "Addiction-Based Tenuous Community",
+            "page": 607
+        },
+        {
+            "level": "H2",
+            "text": "Detection in Online Social Media",
+            "page": 607
+        },
+        {
+            "level": "H2",
+            "text": "Global Path Planning Based on Improved",
+            "page": 629
+        },
+        {
+            "level": "H2",
+            "text": "Ant Colony Optimization Algorithm",
+            "page": 629
+        },
+        {
+            "level": "H2",
+            "text": "Advanced Automated System",
+            "page": 643
+        },
+        {
+            "level": "H2",
+            "text": "Health Emergencies",
+            "page": 643
+        },
+        {
+            "level": "H2",
+            "text": "Machine Learning Model for Cervical",
+            "page": 653
+        },
+        {
+            "level": "H2",
+            "text": "Cancer Risk Assessment",
+            "page": 653
+        },
+        {
+            "level": "H2",
+            "text": "H",
+            "page": 664
+        },
+        {
+            "level": "H2",
+            "text": "-Based Fractional-Order Controller",
+            "page": 664
+        },
+        {
+            "level": "H3",
+            "text": "∞",
+            "page": 664
+        },
+        {
+            "level": "H2",
+            "text": "MediSentBot—Medicine Review",
+            "page": 675
+        },
+        {
+            "level": "H2",
+            "text": "Sentiment Analysis",
+            "page": 675
+        },
+        {
+            "level": "H2",
+            "text": "NLP",
+            "page": 675
+        },
+        {
+            "level": "H2",
+            "text": "Cybercrime Classiﬁcation and Tracking",
+            "page": 691
+        },
+        {
+            "level": "H2",
+            "text": "Computations System Using Machine",
+            "page": 691
+        },
+        {
+            "level": "H2",
+            "text": "Learning",
+            "page": 691
+        },
+        {
+            "level": "H2",
+            "text": "Prognostic Analysis of Logistics",
+            "page": 705
+        },
+        {
+            "level": "H2",
+            "text": "Operation by Modeling Ship Berthing",
+            "page": 705
+        },
+        {
+            "level": "H2",
+            "text": "Problem",
+            "page": 705
+        },
+        {
+            "level": "H2",
+            "text": "A Virtual Cognitive Intelligence",
+            "page": 719
+        },
+        {
+            "level": "H2",
+            "text": "Framework for Digital Telehealth Zone",
+            "page": 719
+        },
+        {
+            "level": "H2",
+            "text": "Quality Detection Model of Nutmeg",
+            "page": 730
+        },
+        {
+            "level": "H2",
+            "text": "(",
+            "page": 730
+        },
+        {
+            "level": "H2",
+            "text": ") Using You",
+            "page": 730
+        },
+        {
+            "level": "H2",
+            "text": "Myristica Fragrans Houtt",
+            "page": 730
+        },
+        {
+            "level": "H2",
+            "text": "Only Look Once (YOLO)",
+            "page": 730
+        },
+        {
+            "level": "H2",
+            "text": "Development of New Monolithic Zeolite",
+            "page": 741
+        },
+        {
+            "level": "H2",
+            "text": "Chitosan Hydrogel with Preliminary",
+            "page": 741
+        },
+        {
+            "level": "H2",
+            "text": "Adsorption Studies to Remove Organic",
+            "page": 741
+        },
+        {
+            "level": "H2",
+            "text": "Dyes from Aqueous Solutions",
+            "page": 741
+        }
+    ]
+}
