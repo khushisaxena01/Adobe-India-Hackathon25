@@ -1,7 +1,7 @@
 # Challenge 1a: PDF Processing Solution
 
 ## Overview
-This solution extracts structured document outlines from PDF files, identifying titles and hierarchical headings to generate JSON outputs. Built for the Adobe India Hackathon 2025 Challenge 1A, it processes PDFs within Docker containers while meeting strict performance and resource constraints.
+This solution extracts structured document outlines from PDF files, identifying titles and hierarchical headings to generate JSON outputs. Built for the Adobe India Hackathon 2025 Challenge 1A, it processes PDFs within Docker containers while meeting strict performance and resource constraints. 
 
 ### Key Requirements
 - **Automatic Processing**: Process all PDFs from `/app/input` directory
@@ -229,6 +229,7 @@ Open source solution using freely available libraries and tools as required by A
 - [✅] Solution works without internet access
 - [✅] Memory usage stays within 16GB limit
 - [✅] Compatible with AMD64 architecture
+- [✅] Multilingual as well (Japanese)
 
 Adobe India Hackathon 2025 - Challenge 1A Submission
 
