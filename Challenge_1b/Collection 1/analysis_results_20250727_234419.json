@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Project proposal.pdf"
+    ],
+    "persona": "student",
+    "job_to_be_done": "find key insights and conclusions",
+    "processing_timestamp": "2025-07-27T23:44:19.947300",
+    "total_sections_found": 165,
+    "top_sections_selected": 10
+  },
+  "extracted_sections": [
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 1,
+      "section_title": "Surface\n \ninsights\n \nautomatically\n \nfrom\n \ncomplex",
+      "importance_rank": 1,
+      "relevance_score": 0.441
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 1,
+      "section_title": "interactive",
+      "importance_rank": 2,
+      "relevance_score": 0.424
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 2,
+      "section_title": "functionality",
+      "importance_rank": 3,
+      "relevance_score": 0.017
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 2,
+      "section_title": "Beginning",
+      "importance_rank": 4,
+      "relevance_score": 0.006
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 1,
+      "section_title": "Archit\n \nGautam\n \nADOBE\n \nINDIA\n \nHACKATHON\n \nConnecting\n \nthe\n \ndots\n \nchallenge",
+      "importance_rank": 5,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 1,
+      "section_title": "a\n \ngroundbreaking\n \neffort\n \nto\n \nrevolutionize\n \nthe\n \nway\n \nwe\n \nengage\n \nwith\n \nPDF",
+      "importance_rank": 6,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 1,
+      "section_title": "Talk\n \nto\n \nusers\n \nand\n \ntell\n \nstories",
+      "importance_rank": 7,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 1,
+      "section_title": "Link\n \nconcepts\n \nacross\n \nwhole\n \ndocument",
+      "importance_rank": 8,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 1,
+      "section_title": "Respond\n \nintelligently\n \nlike\n \na\n \ntrusted\n \nresearch",
+      "importance_rank": 9,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 1,
+      "section_title": "and\n \nnarrated\n \nmeaning\n \nacross\n \nyour\n \nentire",
+      "importance_rank": 10,
+      "relevance_score": 0.0
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "Surface\n \ninsights\n \nautomatically\n \nfrom\n \ncomplex",
+      "refined_text": "Surface\n \ninsights\n \nautomatically\n \nfrom\n \ncomplex\n \ncontent.\n \n●",
+      "page_number": 1,
+      "relevance_score": 0.441
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "interactive",
+      "refined_text": "interactive\n \nfriends\n \nthat\n \ncan:\n \n●\n \nTalk\n \nto\n \nusers\n \nand\n \ntell\n \nstories\n \nmeaningfully.\n \n●\n \nLink\n \nconcepts\n \nacross\n \nwhole\n \ndocument\n \ncollections.\n \n●\n \nSurface\n \ninsights",
+      "page_number": 1,
+      "relevance_score": 0.424
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "functionality",
+      "refined_text": "functionality\n \nboth\n \nfor\n \nsimple\n \nand\n \ncomplex\n \nPDFs.\n \n \nKey\n \nFeatur es:\n \n \n●\n \nAutomated\n \nPipeline:\n \nScans\n \nand\n \nprocesses\n \nall\n \nPDFs\n \nfound\n \nin\n \nthe\n \n/app/input\n \nfolder.\n \n●\n \nStructured\n \nJSON\n \nOutput:\n \nProduces\n \na\n \nfilename.json\n \nfor\n \nevery\n \nfilename.pdf,",
+      "page_number": 2,
+      "relevance_score": 0.017
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "Beginning",
+      "refined_text": "CHALLENGE\n \n1\n \nA:\n  \nPDF\n \nProcessing\n \nSolution\n \n \nOverview:\n \nThis\n \nproject\n \noutlines\n \nan\n \nautomated\n \napproach\n \nto\n \nget\n \nstructured\n \noutlines\n \nfrom\n \nPDF\n \nfiles,\n \nfor\n \nAdobe\n \nIndia\n \nHackathon\n \n2025\n \n(Challenge\n \n1A).. Designed\n \nto\n \nexecute\n \nwithin\n \nDocker\n \ncontainers,\n \nthe\n \nsystem\n \nis\n \ncreated\n \nto\n \nperform\n \nunder\n \nstringent\n \nperformance\n \nlimits,\n \nsuch\n \nas\n \nlimited\n \ncross-platform\n \ncompatibility,\n \nCPU,\n \nand\n \nmemory..",
+      "page_number": 2,
+      "relevance_score": 0.006
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "Archit\n \nGautam\n \nADOBE\n \nINDIA\n \nHACKATHON\n \nConnecting\n \nthe\n \ndots\n \nchallenge",
+      "refined_text": "Archit\n \nGautam\n \nADOBE\n \nINDIA\n \nHACKATHON\n \nConnecting\n \nthe\n \ndots\n \nchallenge\n \n \nOVER VIEW :",
+      "page_number": 1,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "a\n \ngroundbreaking\n \neffort\n \nto\n \nrevolutionize\n \nthe\n \nway\n \nwe\n \nengage\n \nwith\n \nPDF",
+      "refined_text": "a\n \ngroundbreaking\n \neffort\n \nto\n \nrevolutionize\n \nthe\n \nway\n \nwe\n \nengage\n \nwith\n \nPDF\n \nfiles.",
+      "page_number": 1,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "Talk\n \nto\n \nusers\n \nand\n \ntell\n \nstories",
+      "refined_text": "Talk\n \nto\n \nusers\n \nand\n \ntell\n \nstories\n \nmeaningfully.\n \n●",
+      "page_number": 1,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "Link\n \nconcepts\n \nacross\n \nwhole\n \ndocument",
+      "refined_text": "Link\n \nconcepts\n \nacross\n \nwhole\n \ndocument\n \ncollections.\n \n●",
+      "page_number": 1,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "Respond\n \nintelligently\n \nlike\n \na\n \ntrusted\n \nresearch",
+      "refined_text": "Respond\n \nintelligently\n \nlike\n \na\n \ntrusted\n \nresearch\n \nassistant.",
+      "page_number": 1,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "and\n \nnarrated\n \nmeaning\n \nacross\n \nyour\n \nentire",
+      "refined_text": "and\n \nnarrated\n \nmeaning\n \nacross\n \nyour\n \nentire\n \nlibrary?\"",
+      "page_number": 1,
+      "relevance_score": 0.0
+    }
+  ],
+  "processing_time_seconds": 0.47
+}

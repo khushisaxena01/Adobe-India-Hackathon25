@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Project proposal.pdf"
+    ],
+    "persona": "student",
+    "job_to_be_done": "summarize main findings",
+    "processing_timestamp": "2025-07-27T23:42:21.276348",
+    "total_sections_found": 165,
+    "top_sections_selected": 10
+  },
+  "extracted_sections": [
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 10,
+      "section_title": "periods/questions",
+      "importance_rank": 1,
+      "relevance_score": 0.441
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 12,
+      "section_title": "Main\n \nprocessing\n \nfunction\n \nthat\n \ncoordinates\n \nall\n \nextraction",
+      "importance_rank": 2,
+      "relevance_score": 0.434
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 12,
+      "section_title": "Beginning",
+      "importance_rank": 3,
+      "relevance_score": 0.431
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 2,
+      "section_title": "Beginning",
+      "importance_rank": 4,
+      "relevance_score": 0.4
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 2,
+      "section_title": "maintaining\n \nheading\n \nlevels\n \nand\n \npage",
+      "importance_rank": 5,
+      "relevance_score": 0.4
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 2,
+      "section_title": "Completely\n \nDockerized\n \nto\n \nmaintain\n \nconsistency\n \nand\n \nenvironment",
+      "importance_rank": 6,
+      "relevance_score": 0.4
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 2,
+      "section_title": "maintaining",
+      "importance_rank": 7,
+      "relevance_score": 0.4
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 2,
+      "section_title": "Deployment:",
+      "importance_rank": 8,
+      "relevance_score": 0.4
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 1,
+      "section_title": "Archit\n \nGautam\n \nADOBE\n \nINDIA\n \nHACKATHON\n \nConnecting\n \nthe\n \ndots\n \nchallenge",
+      "importance_rank": 9,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Project proposal.pdf",
+      "page_number": 1,
+      "section_title": "a\n \ngroundbreaking\n \neffort\n \nto\n \nrevolutionize\n \nthe\n \nway\n \nwe\n \nengage\n \nwith\n \nPDF",
+      "importance_rank": 10,
+      "relevance_score": 0.0
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "periods/questions",
+      "refined_text": "periods/questions\n \n \n7.3\n \nMain\n \nHeading\n \nDetection\n \n:",
+      "page_number": 10,
+      "relevance_score": 0.441
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "Main\n \nprocessing\n \nfunction\n \nthat\n \ncoordinates\n \nall\n \nextraction",
+      "refined_text": "Main\n \nprocessing\n \nfunction\n \nthat\n \ncoordinates\n \nall\n \nextraction\n \noperations.\n \nWorkflow:\n \n1.",
+      "page_number": 12,
+      "relevance_score": 0.434
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "Beginning",
+      "refined_text": "Purpose:\n \nMain\n \nprocessing\n \nfunction\n \nthat\n \ncoordinates\n \nall\n \nextraction\n \noperations.\n \nWorkflow:",
+      "page_number": 12,
+      "relevance_score": 0.431
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "Beginning",
+      "refined_text": "CHALLENGE\n \n1\n \nA:\n  \nPDF\n \nProcessing\n \nSolution\n \n \nOverview:\n \nThis\n \nproject\n \noutlines\n \nan\n \nautomated\n \napproach\n \nto\n \nget\n \nstructured\n \noutlines\n \nfrom\n \nPDF\n \nfiles,\n \nfor\n \nAdobe\n \nIndia\n \nHackathon\n \n2025\n \n(Challenge\n \n1A).. Designed\n \nto\n \nexecute\n \nwithin\n \nDocker\n \ncontainers,\n \nthe\n \nsystem\n \nis\n \ncreated\n \nto\n \nperform\n \nunder\n \nstringent\n \nperformance\n \nlimits,\n \nsuch\n \nas\n \nlimited\n \ncross-platform\n \ncompatibility,\n \nCPU,\n \nand\n \nmemory..",
+      "page_number": 2,
+      "relevance_score": 0.4
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "maintaining\n \nheading\n \nlevels\n \nand\n \npage",
+      "refined_text": "maintaining\n \nheading\n \nlevels\n \nand\n \npage\n \nmapping.\n \n●",
+      "page_number": 2,
+      "relevance_score": 0.4
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "Completely\n \nDockerized\n \nto\n \nmaintain\n \nconsistency\n \nand\n \nenvironment",
+      "refined_text": "Completely\n \nDockerized\n \nto\n \nmaintain\n \nconsistency\n \nand\n \nenvironment\n \nsegregation.\n \n●",
+      "page_number": 2,
+      "relevance_score": 0.4
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "maintaining",
+      "refined_text": "maintaining\n \nheading\n \nlevels\n \nand\n \npage\n \nmapping.\n \n●",
+      "page_number": 2,
+      "relevance_score": 0.4
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "Deployment:",
+      "refined_text": "Deployment:\n \nCompletely\n \nDockerized\n \nto\n \nmaintain",
+      "page_number": 2,
+      "relevance_score": 0.4
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "Archit\n \nGautam\n \nADOBE\n \nINDIA\n \nHACKATHON\n \nConnecting\n \nthe\n \ndots\n \nchallenge",
+      "refined_text": "Archit\n \nGautam\n \nADOBE\n \nINDIA\n \nHACKATHON\n \nConnecting\n \nthe\n \ndots\n \nchallenge\n \n \nOVER VIEW :",
+      "page_number": 1,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Project proposal.pdf",
+      "section_title": "a\n \ngroundbreaking\n \neffort\n \nto\n \nrevolutionize\n \nthe\n \nway\n \nwe\n \nengage\n \nwith\n \nPDF",
+      "refined_text": "a\n \ngroundbreaking\n \neffort\n \nto\n \nrevolutionize\n \nthe\n \nway\n \nwe\n \nengage\n \nwith\n \nPDF\n \nfiles.",
+      "page_number": 1,
+      "relevance_score": 0.0
+    }
+  ],
+  "processing_time_seconds": 0.46
+}
